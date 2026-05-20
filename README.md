@@ -1,4 +1,4 @@
-SportsBook sends an email summarizing latest sports results for specified teams.
+SportsPage sends an email summarizing latest sports results for specified teams.
 
 This is an initial experiment in vibecoding.
 
